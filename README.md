@@ -7,6 +7,7 @@ The primary objective of this assignment is to use the PromptIR model to restore
 
 Please refer to the [PromptIR GitHub repository](https://github.com/va1shn9v/PromptIR) for detailed instructions on how to execute the program, including how to run the model and set up the required environment.
 
+## Data
 Dataset Link: https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul?usp=share_link       
 
 ## Peformance Snapshot    
